@@ -1,0 +1,2 @@
+Proverka sviazi
+	Nahoi  blyat
